@@ -1,0 +1,6 @@
+{
+  "src/**/*.{js,ts,tsx}": [
+    "pnpm lint",
+    "pnpm test -- related --run"
+  ]
+}
